@@ -1,0 +1,7 @@
+{
+  "name": "Copy of FloraGuard AI",
+  "description": "Advanced plant disease detector with severity prediction and simulated attention heatmaps.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
